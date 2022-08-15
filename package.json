@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "tailwind": "^4.0.0"
+  }
+  "tailwindCSS.includeLanguages": {
+  "html": "html",
+  "javascript": "javascript",
+  "css": "css"
+},
+"editor.quickSuggestions": {
+  "strings": true
+}
+}
+
